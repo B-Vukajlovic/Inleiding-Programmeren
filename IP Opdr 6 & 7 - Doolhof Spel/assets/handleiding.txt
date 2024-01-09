@@ -1,0 +1,27 @@
+                                                   Welkom bij PMC Evade!                                                        
+                                                                                                                                
+PMC Evade is een doolhofspel, waar de speler het einde (de '\') moet bereiken zonder te verliezen ('X' aanraken).               
+                                                                                                                                
+In het spel komen een aantal characters voor:                                                                                   
+                                                                                                                                
+'\' = De uitgang van het doolhof, op het moment dat deze is bereikt stop het spel en heeft de speler gewonnen.                  
+                                                                                                                                
+'*' = De speler zelf.                                                                                                           
+                                                                                                                                
+'X' = Verlies condities, als de speler deze aanraakt stop het spel en heeft hij verloren.                                       
+                                                                                                                                
+'8' , 'a' = De wanden van het doolhof.                                                                                          
+                                                                                                                                
+'__' , '|' = De ramen in het doolhof (fungeren netzoals wanden), rond of voor ramen zijn veel verlies condities ('X') aanwezig. 
+                                                                                                                                
+'$' = Een collectable, het oppakken van deze collectable en de uitgang bereiken geeft een ander plot einde.                     
+                                                                                                                                
+                                                                                                                                
+Controls:                                                                                                                       
+                                                                                                                                
+Speler bewegen =  W, A, S, D                                                                                                    
+                                                                                                                                
+Spel eindigen = Ctrl + C                                                                                                        
+                                                                                                                                
+                                                                                                                                
+Click een knop op je toetsen bord om te beginnen.                                                                               

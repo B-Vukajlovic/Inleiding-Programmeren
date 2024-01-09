@@ -1,0 +1,23 @@
+aaaaaaaaaa__aaaaaaaaaaaaaaaaa__aaaaaaaaaaaaaaaaaaaaaaa__aaaaaaaaaaaaa / 8  
+8   8               8               8           8                   8   8  
+8   8X Xaaaaaaaaa  X8   aa__a  Xaaaa8aaaa   aaaa8   a__aa   aaaaa   8   8  
+8               8       8   8           8           8   8  X8       8   8  
+8aaa__aaa   a  X8aaaaaaa8   8a__aaaaa   8aaaaX  a   8   8   8aaaaaaa8  X8  
+8       8  X|               |           8   |   8   8   8           8   |  
+|   a   8__a8aaaaaaaaX  a  X8  Xaaaaaaaa8   8aaa8   8X  8aaaaa__a   8X  8  
+8X  |               8   8   8       8           |           8       |   8  
+|   8aaaaaaaaa__a   8aaa8   8a__a   8  XaaaaaX  8aaa__aaa   8  Xaaaa8   8  
+8           8       8   8       8X  8X    $ 8           8               8  
+8  Xaaaaa  X8aaaa  X8   8aaaa  X8   8aaaaaaa8   a   a   8   8aaaaaaaaaaa8  
+8       8       8   |   8       8       8       8   8   8       8       8  
+8aaaaaaa8aaaa   8   8  X8   aaaa8aaaa   8   aaaa8  X8   8aaaa   8aaaa   8  
+|           8   8           8       8   8       8   8       8           |  
+8   aaaaa   |  X8aaaaaaaa  X8aaaa   8  X8aaaa   8aaa8   aaaa8aaaaaaaaX  8  
+8   |       8           8           8      X|   8  X8               8   8  
+|   8  Xaaaa8aaaa  Xa   |aaaa   aaaa8__aa   8X  8   8aaaaaaaaaaaa   8   8  
+8X  8           8   8  X8   8   8           8               8   8       8  
+8   8aaaaaaaa   8   8   8   8aaa8  X8aaaaaaa8  Xaaaa__aaa   8   8aaaaaaa8  
+8   |       8   8   8           |           8   8       |X              8  
+8   8  Xaaaa8 X 8aaa8   aaaaa  X8aaaaa_aa   8__a8   a   8__aaaaaaX  a   8  
+8 * 8                   8           8               8               8   8  
+8aaa8aa__aaaa__aaaaaa__a8aaaa__aaaaa8aaaaaa__aaaaaaa8aaaaaaaa__aaaaa8aaa8  
